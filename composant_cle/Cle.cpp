@@ -19,7 +19,7 @@ class Cle {
     };
 
     string Cle::getPrivateKey(){
-      return privteKey;
+      return privateKey;
     
     };
 
